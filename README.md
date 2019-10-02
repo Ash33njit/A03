@@ -5,6 +5,7 @@ Task: Creating a GitHub Account
 Step 1: Create a github account on github.com following onscreen instructions and filling in the necessary information.
 
 Task: Creating a repository
+
 Step 1: on Github.com Next to your avatar, click the + icon and select new repository
 Step 2: Name your respository based on teh project you are working on. If you are working on a NJIT app, name your repo NJIT-App or something similar.
 Step 3: Create a short description of what you are working on that gives you an idea of what the project is
@@ -12,11 +13,13 @@ Step 4: Select whether this repo is availbable for the public to view, or privat
 Step 5: Select initialize this repository with a README, then press create repository
 
 Task: Creating a Branch
+
 Step 1: Go to a repository you have created, NJIT-App in our case for example.
 Step 2: Click the drop down at the top of the file that says branch: master
 Step 3: Begin typing what you would like this branch called. We'll call this NJITApp-Edits and then press create branch
 
 Task: Commit changes
+
 Step 1: Click on a readme.md file in your repository
 Step 2: Click on the pencil icon on the top right corner allowing you to edit the file
 Step 3: Make your changes to the file in the editor
@@ -24,6 +27,7 @@ Step 4: Write a message or notate what changes you have made that you will commi
 Step 5: Click commit changes button.
 
 Task: Open a pull request
+
 Step 1: Click the pull request tab
 Step 2: Click new pull request button
 Step 3: In our instance select NJITAPP-Edits to compare with the master branch
@@ -33,6 +37,7 @@ Step 6: Give your pull request a name and description on the changes
 Step 7: Click Create pull request after you are done
 
 Taks: Merge Pull Request
+
 Step 1: Click the merge pull request button merge any changes to your master branch
 Step 2: Click confirm merge
 Step 3: The NJITAPP-Edits branch can be deleted since the changes have been incorporated to the master branch already
